@@ -14,15 +14,15 @@ However, upon learning that this was a DF-wide problem, I chose to scale up the 
 
 - Presentation Tier
 
-** The UI, consisting of a HTML rendering, capturing clicks and form input, with a periodic refresh governed in JavaScript. This tier holds no server authority.
+  * The UI, consisting of a HTML rendering, capturing clicks and form input, with a periodic refresh governed in JavaScript. This tier holds no server authority.
 
 - Application Tier
 
-* The server process, handling authentication, authorisation, validation, organisation rules and template rendering, with Flask. This tier is the sole process that opens the database file.
+  * The server process, handling authentication, authorisation, validation, organisation rules and template rendering, with Flask. This tier is the sole process that opens the database file.
 
 - Data Tier
 
-* The authoritative data layer, a persistent state database with constraints only, no application logic.
+  * The authoritative data layer, a persistent state database with constraints only, no application logic.
 
 This way, the project would take the form of a client-server web application, without the need for installation and scoped well within the network and database architecture already present within the DF.
 
