@@ -14,7 +14,7 @@ However, upon learning that this was a DF-wide problem, I chose to scale up the 
 
 - Presentation Tier
 
-* The UI, consisting of a HTML rendering, capturing clicks and form input, with a periodic refresh governed in JavaScript. This tier holds no server authority.
+** The UI, consisting of a HTML rendering, capturing clicks and form input, with a periodic refresh governed in JavaScript. This tier holds no server authority.
 
 - Application Tier
 
