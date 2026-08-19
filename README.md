@@ -2,7 +2,7 @@
 
 ## Background
 
-Within each major barracks in the Irish Defence Forces (DF), there are three messes, one each for officers, NCOs and privates. Each mess has an appointed mess secretary, who manages accomodation, budgeting, and triaging maintenance issues. Upon speaking to several mess secretaries, difficulties in management were made apparent due to the lack of a consolidated property management solution. Because mess secretary appointments are changed on a rotational basis, the organisation would benefit greatly from a standardised web app on which personnel could be trained, and on which data could be recorded both consistently and securely.
+Within each major barracks in the Irish Defence Forces (DF), there are three messes, one each for officers, NCOs and privates. Each mess has an appointed mess secretary, who manages accomodation, budgeting, and triaging maintenance issues. Upon speaking to several mess secretaries, difficulties in management were made apparent due to the lack of a consolidated property management solution. Because mess secretary appointments are changed on a rotational basis, the organisation would benefit greatly from a standardised web app on which personnel could be trained, and in which data could be recorded both consistently and securely.
 
 # Decision Log
 
