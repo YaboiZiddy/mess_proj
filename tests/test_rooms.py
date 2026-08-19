@@ -1,0 +1,1 @@
+# authorisation matrix, role x scope x operation tests for room read/write

@@ -1,0 +1,1 @@
+// client-side polling loop, fetches room state on an interval and updates DOM without full page reload
