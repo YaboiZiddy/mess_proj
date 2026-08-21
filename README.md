@@ -4,6 +4,10 @@
 
 Within each major barracks in the Irish Defence Forces (DF), there are three messes, one each for officers, NCOs and privates. Each mess has an appointed mess secretary, who manages accommodation, budgeting, and triaging maintenance issues. Upon speaking to several mess secretaries, difficulties in management were made apparent due to the lack of a consolidated property management solution. Because mess secretary appointments are changed on a rotational basis, the organization would benefit greatly from a standardised web app on which personnel could be trained, and in which data could be recorded both consistently and securely.
 
+### Disclaimer
+
+This repository is an independent, self-directed learning project. It is a proof of concept only and does not reflect the actual architecture, systems, or software used by the Irish Defence Forces or any government organisation. All site names, room data, user accounts, and fault reports are entirely fictional, generated for demonstration purposes. No real, sensitive, or organisation-specific data of any kind is contained in this repository, its commit history, or its issue tracker. This project is not endorsed, sponsored, or approved by the Irish Defence Forces, minister of defence, or any government body, and no such affiliation should be inferred. It was developed independently, on personal time and equipment, using only publicly available documentation and general software engineering practice.
+
 # Decision Log
 
 ## Project Scaling
