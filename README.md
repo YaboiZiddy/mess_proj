@@ -8,7 +8,7 @@ Within each major barracks in the Irish Defence Forces (DF), there are three mes
 
 This repository is an independent, self-directed learning project. It is a proof of concept only and does not reflect the actual architecture, systems, or software used by the Irish Defence Forces or any government organisation. All site names, room data, user accounts, and fault reports are entirely fictional, generated for demonstration purposes. No real, sensitive, or organisation-specific data of any kind is contained in this repository, its commit history, or its issue tracker. This project is not endorsed, sponsored, or approved by the Irish Defence Forces, minister of defence, or any government body, and no such affiliation should be inferred. It was developed independently, on personal time and equipment, using only publicly available documentation and general software engineering practice.
 
-# Decision Log
+# Major Decision Log
 
 ## Project Scaling
 
